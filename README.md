@@ -1,7 +1,8 @@
 ### TODO
 
 - [x] Character movement
-- [x] Basic world generation
+- [ ] Implement noise
+- [ ] Basic world generation (with collisions)
 - [ ] Make a better world generation (shape of an island maybe, more biomes)
 - [ ] Implement chunk system and a way to store generated tiles
 - [ ] Add trees, vegetation, rocks, ores, mines etc
